@@ -1,2 +1,2 @@
 # css-evill
-interesting css for unscrupulous customers
+Interesting css for unscrupulous customers
